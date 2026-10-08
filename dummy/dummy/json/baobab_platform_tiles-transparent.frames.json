@@ -1,0 +1,84 @@
+{
+  "image": "/generated-assets/baobab_platform_tiles-transparent.webp",
+  "grid": {
+    "cols": 3,
+    "rows": 1,
+    "frameWidth": 224,
+    "frameHeight": 448
+  },
+  "frames": [
+    {
+      "name": "left",
+      "source": {
+        "x": 64,
+        "y": 64,
+        "w": 224,
+        "h": 448
+      },
+      "content": {
+        "x": 110,
+        "y": 397,
+        "w": 16,
+        "h": 17
+      },
+      "anchor": {
+        "x": 118,
+        "y": 413
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 397,
+      "connectsTo": [
+        "right"
+      ]
+    },
+    {
+      "name": "center",
+      "source": {
+        "x": 288,
+        "y": 64,
+        "w": 672,
+        "h": 448
+      },
+      "content": {
+        "x": 14,
+        "y": 104,
+        "w": 1221,
+        "h": 330
+      },
+      "anchor": {
+        "x": 625,
+        "y": 433
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 205,
+      "connectsTo": [
+        "left",
+        "right"
+      ]
+    },
+    {
+      "name": "right",
+      "source": {
+        "x": 960,
+        "y": 64,
+        "w": 224,
+        "h": 448
+      },
+      "content": {
+        "x": 1071,
+        "y": 166,
+        "w": 9,
+        "h": 10
+      },
+      "anchor": {
+        "x": 1076,
+        "y": 175
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 167,
+      "connectsTo": [
+        "left"
+      ]
+    }
+  ]
+}

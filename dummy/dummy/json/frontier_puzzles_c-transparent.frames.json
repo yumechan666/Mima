@@ -1,0 +1,201 @@
+{
+  "image": "/generated-assets/frontier_puzzles_c-transparent.webp",
+  "grid": {
+    "cols": 5,
+    "rows": 2,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "bamboo_gong",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 30,
+        "y": 22,
+        "w": 333,
+        "h": 357
+      },
+      "anchor": {
+        "x": 197,
+        "y": 378
+      }
+    },
+    {
+      "name": "reed_valve",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 445,
+        "y": 24,
+        "w": 304,
+        "h": 354
+      },
+      "anchor": {
+        "x": 597,
+        "y": 377
+      }
+    },
+    {
+      "name": "mangrove_tide_wheel",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 805,
+        "y": 21,
+        "w": 337,
+        "h": 358
+      },
+      "anchor": {
+        "x": 974,
+        "y": 378
+      }
+    },
+    {
+      "name": "floating_log_anchor",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1176,
+        "y": 25,
+        "w": 404,
+        "h": 354
+      },
+      "anchor": {
+        "x": 1378,
+        "y": 378
+      }
+    },
+    {
+      "name": "moon_pollen_lantern",
+      "source": {
+        "x": 1592,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1656,
+        "y": 21,
+        "w": 245,
+        "h": 358
+      },
+      "anchor": {
+        "x": 1779,
+        "y": 378
+      }
+    },
+    {
+      "name": "bubble_reed",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 32,
+        "y": 409,
+        "w": 323,
+        "h": 385
+      },
+      "anchor": {
+        "x": 194,
+        "y": 793
+      }
+    },
+    {
+      "name": "gorge_counterweight",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 426,
+        "y": 416,
+        "w": 305,
+        "h": 371
+      },
+      "anchor": {
+        "x": 579,
+        "y": 786
+      }
+    },
+    {
+      "name": "pebble_target",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 828,
+        "y": 417,
+        "w": 290,
+        "h": 371
+      },
+      "anchor": {
+        "x": 973,
+        "y": 787
+      }
+    },
+    {
+      "name": "honey_scent_fork",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1226,
+        "y": 409,
+        "w": 289,
+        "h": 386
+      },
+      "anchor": {
+        "x": 1371,
+        "y": 794
+      }
+    },
+    {
+      "name": "ant_bridge_lever",
+      "source": {
+        "x": 1592,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1579,
+        "y": 415,
+        "w": 348,
+        "h": 380
+      },
+      "anchor": {
+        "x": 1753,
+        "y": 794
+      }
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "image": "/generated-assets/final_objects-transparent.webp",
+  "grid": {
+    "cols": 4,
+    "rows": 3,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "slingshot_lock",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 46,
+        "y": 34,
+        "w": 308,
+        "h": 330
+      },
+      "anchor": {
+        "x": 200,
+        "y": 363
+      }
+    },
+    {
+      "name": "thermal_lock",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 431,
+        "y": 34,
+        "w": 323,
+        "h": 329
+      },
+      "anchor": {
+        "x": 593,
+        "y": 362
+      }
+    },
+    {
+      "name": "slam_lock",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 811,
+        "y": 53,
+        "w": 353,
+        "h": 287
+      },
+      "anchor": {
+        "x": 988,
+        "y": 339
+      }
+    },
+    {
+      "name": "zipline_lock",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1206,
+        "y": 34,
+        "w": 353,
+        "h": 333
+      },
+      "anchor": {
+        "x": 1383,
+        "y": 366
+      }
+    },
+    {
+      "name": "twig_cage",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 44,
+        "y": 409,
+        "w": 306,
+        "h": 353
+      },
+      "anchor": {
+        "x": 197,
+        "y": 761
+      }
+    },
+    {
+      "name": "branch_gate",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 419,
+        "y": 422,
+        "w": 348,
+        "h": 340
+      },
+      "anchor": {
+        "x": 593,
+        "y": 761
+      }
+    },
+    {
+      "name": "checkpoint_blossom",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 822,
+        "y": 409,
+        "w": 332,
+        "h": 365
+      },
+      "anchor": {
+        "x": 988,
+        "y": 773
+      }
+    },
+    {
+      "name": "secret_carving",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1228,
+        "y": 410,
+        "w": 308,
+        "h": 364
+      },
+      "anchor": {
+        "x": 1382,
+        "y": 773
+      }
+    },
+    {
+      "name": "clue_marker",
+      "source": {
+        "x": 56,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 42,
+        "y": 828,
+        "w": 309,
+        "h": 328
+      },
+      "anchor": {
+        "x": 197,
+        "y": 1155
+      }
+    },
+    {
+      "name": "shortcut_arch",
+      "source": {
+        "x": 440,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 400,
+        "y": 816,
+        "w": 390,
+        "h": 334
+      },
+      "anchor": {
+        "x": 595,
+        "y": 1149
+      }
+    },
+    {
+      "name": "hard_fruit",
+      "source": {
+        "x": 824,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 842,
+        "y": 817,
+        "w": 280,
+        "h": 339
+      },
+      "anchor": {
+        "x": 982,
+        "y": 1155
+      }
+    },
+    {
+      "name": "baobab_latch",
+      "source": {
+        "x": 1208,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1205,
+        "y": 820,
+        "w": 344,
+        "h": 337
+      },
+      "anchor": {
+        "x": 1377,
+        "y": 1156
+      }
+    }
+  ]
+}

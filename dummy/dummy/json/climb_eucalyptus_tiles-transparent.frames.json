@@ -1,0 +1,49 @@
+{
+  "image": "/generated-assets/climb_eucalyptus_tiles-transparent.webp",
+  "grid": {
+    "cols": 1,
+    "rows": 2,
+    "frameWidth": 480,
+    "frameHeight": 240
+  },
+  "frames": [
+    {
+      "name": "top_cap",
+      "source": {
+        "x": 64,
+        "y": 64,
+        "w": 480,
+        "h": 240
+      },
+      "content": null,
+      "anchor": null,
+      "empty": true,
+      "connectsTo": [
+        "bottom"
+      ]
+    },
+    {
+      "name": "body",
+      "source": {
+        "x": 64,
+        "y": 304,
+        "w": 480,
+        "h": 720
+      },
+      "content": {
+        "x": 69,
+        "y": 0,
+        "w": 470,
+        "h": 1024
+      },
+      "anchor": {
+        "x": 304,
+        "y": 1023
+      },
+      "connectsTo": [
+        "top",
+        "bottom"
+      ]
+    }
+  ]
+}
